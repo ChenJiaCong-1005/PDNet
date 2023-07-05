@@ -1,2 +1,4 @@
 # PDNet
-A Lightweight Parameter De-redundancy Network for Image Demoireing
+This is the repository of the paper "Lightweight Parameter De-redundancy Demoireing Network with Adaptive Wavelet Distillation".
+
+Implementation will be provided.
