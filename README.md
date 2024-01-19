@@ -35,6 +35,12 @@ bash scripts/download_data.sh
 ```
 Then the dataset will be available in the folder `uhdm_data/`.
 
+## Download Teacher Model:
+We provide pre-trained teacher model on UHDM dataset, which can be downloaded through the following link:
+
+Link：https://pan.baidu.com/s/1mzPbs5VaFyBbPsS3aBCj5g 
+Password：fqei
+
 ## Train
 To train a model from scratch, simply run:
 
