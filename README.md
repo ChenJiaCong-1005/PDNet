@@ -40,7 +40,9 @@ We provide pre-trained teacher model on UHDM dataset, which can be downloaded th
 
 Link：https://pan.baidu.com/s/1mzPbs5VaFyBbPsS3aBCj5g 
 Password：fqei
+
 or
+
 Link: https://u.pcloud.link/publink/show?code=kZ9EMF0Zd5EI0q5ks7XoNL6z138lsQy5K8QV
 
 ## Train
